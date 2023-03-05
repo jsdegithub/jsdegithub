@@ -9,7 +9,7 @@
                                   \/___/
 
 
-Hello, I'm JinShuo. I'm a front-end developer from China. 🇨🇳
+Hello, I'm JinShuo, a front-end developer from China. 🇨🇳
 
 **About me**
 
