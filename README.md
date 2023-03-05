@@ -27,5 +27,5 @@ Hello, I'm JinShuo, a front-end developer from China. 🇨🇳
 
 **Github stats**
 
-| <a href="javascript:;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jsdegithub&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true&hide=contribs,prs&count_private=true" alt="JinShuo's github stats" /></a> | <a href="javascript:;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsdegithub&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="javascript:;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jsdegithub&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true&count_private=true" alt="JinShuo's github stats" /></a> | <a href="javascript:;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsdegithub&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
