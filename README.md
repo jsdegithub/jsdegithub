@@ -9,6 +9,12 @@
                                       \/___/
 
 
+Hello, I'm JinShuo. I'm a front-end developer from China. 🇨🇳
 
+**About me**
 
-[![jsdegithub's github stats](//p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1188110e11c84be89e6c60130622635a~tplv-k3u1fbpfcp-zoom-1.image)](https://github.com/jsdegithub/github-readme-stats)
+- 💼 FrontEnd Engineer at Shenzhen, China.
+
+- ❤️ I love writing JavaScript, and have a lot of amateur interests，for example: poetry, calligraphy, guitar, etc.
+
+| <a href="https://github.com/jsdegithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jsdegithub&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="JinShuo's github stats" /></a> | <a href="https://github.com/jsdegithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsdegithub&layout=compact&theme=buefy&hide_border=true" /></a> |
